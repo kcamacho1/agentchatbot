@@ -12,5 +12,12 @@
     "total_chunks": 1,
     "file_type": ".pdf",
     "file_size": 75614
+  },
+  "Nutritionist_Textbook_Updated_2.25.pdf": {
+    "hash": "96943ba45678a019a2b1aafa84b54fbd",
+    "processed_date": "2025-08-05T11:47:53.006332",
+    "total_chunks": 989,
+    "file_type": ".pdf",
+    "file_size": 163055070
   }
 }
