@@ -1,1 +1,4 @@
 .env
+*.pdf
+# Ignore big textbook
+agentchatbot/documents/Nutritionist_Textbook_Updated_2.25.pdf
