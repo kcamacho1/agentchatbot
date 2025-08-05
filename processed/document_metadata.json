@@ -1,0 +1,16 @@
+{
+  "ProfileQuestions.docx": {
+    "hash": "c2267b1c3c425deefebf8aa3753976b8",
+    "processed_date": "2025-08-05T11:39:26.534122",
+    "total_chunks": 2,
+    "file_type": ".docx",
+    "file_size": 17308
+  },
+  "food_journal_filtered.pdf": {
+    "hash": "c5d436b0e89478f8210ad27e80c2dfe9",
+    "processed_date": "2025-08-05T11:40:14.583912",
+    "total_chunks": 1,
+    "file_type": ".pdf",
+    "file_size": 75614
+  }
+}
